@@ -1,0 +1,21 @@
+{
+  "name": "kfc_gulp.com",
+  "version": "1.0.0",
+  "description": "Dự án web bán gà rán",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luong",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp-sass": "^4.1.0",
+    "gulp.sass": "^1.3.9",
+    "node-sass": "^6.0.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp4-run-sequence": "^1.0.1"
+  }
+}
